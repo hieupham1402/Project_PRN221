@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\OneDrive - vinhdeptrai\\Semester_7_FPTU\\PRN221\\Project_PRN221\\Project\\Project_PRN\\Project_PRN\\Project_PRN.csproj": {}
+    "E:\\Learn_Code\\Clone_Code\\Project_PRN\\Project_PRN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\OneDrive - vinhdeptrai\\Semester_7_FPTU\\PRN221\\Project_PRN221\\Project\\Project_PRN\\Project_PRN\\Project_PRN.csproj": {
+    "E:\\Learn_Code\\Clone_Code\\Project_PRN\\Project_PRN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\OneDrive - vinhdeptrai\\Semester_7_FPTU\\PRN221\\Project_PRN221\\Project\\Project_PRN\\Project_PRN\\Project_PRN.csproj",
+        "projectUniqueName": "E:\\Learn_Code\\Clone_Code\\Project_PRN\\Project_PRN.csproj",
         "projectName": "Project_PRN",
-        "projectPath": "C:\\Users\\Admin\\OneDrive - vinhdeptrai\\Semester_7_FPTU\\PRN221\\Project_PRN221\\Project\\Project_PRN\\Project_PRN\\Project_PRN.csproj",
+        "projectPath": "E:\\Learn_Code\\Clone_Code\\Project_PRN\\Project_PRN.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\OneDrive - vinhdeptrai\\Semester_7_FPTU\\PRN221\\Project_PRN221\\Project\\Project_PRN\\Project_PRN\\obj\\",
+        "outputPath": "E:\\Learn_Code\\Clone_Code\\Project_PRN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
